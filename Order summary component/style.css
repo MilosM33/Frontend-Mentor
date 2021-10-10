@@ -8,6 +8,7 @@ body {
   place-items: center center;
   width: 100vw;
   min-height: 100vh;
+  padding: 100px 0px;
   background: #d6e1ff;
 }
 
